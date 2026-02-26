@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.detalhamento{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.pudim-imagem{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 45%;
+    border-radius: 10px
+}
+
+footer{
+    margin-top: 4%;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.cabeçalho{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.corpo-principal{
+    display: flex;
+    gap: auto;
+    padding: auto;
+}
+
+.geral{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body{
+    margin: 0%;
+    flex: 3;
+    background-color: #ffee0069;
+    padding: 15px;
+    border-radius: 5px;
+}
+.texto-lateral{
+    flex: 1;
+    background-color: #ff990062;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+p{
+    margin-top: auto;
+    font-size: larger;
+}
